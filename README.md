@@ -10,3 +10,5 @@ Bibliotecas usadas:
 <li>Seaborn</li>
 <li>SimpleExpSmoothing do statsmodels.tsa.holtwinters</li>
 </ul>
+
+A técnica de previsão usada é a Suavização Exponencial
